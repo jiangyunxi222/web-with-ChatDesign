@@ -1,0 +1,58 @@
+
+/* 页面全局样式 */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* header样式 */
+header {
+    background-color: #f2f2f2;
+    padding: 10px 0;
+}
+
+header h1 {
+    color: #333;
+    text-align: center;
+}
+
+/* nav样式 */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* main样式 */
+main section {
+    margin-bottom: 20px;
+}
+
+main section h2 {
+    color: #333;
+}
+
+main section p {
+    color: #666;
+}
+
+/* footer样式 */
+footer {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 10px 0;
+}
